@@ -6,8 +6,8 @@ Hi, I'm Erali. You might recognize me as GitHub's eralidev. I really like workin
 - 🌱 I’m currently learning Data Science and AI
 - 👯 I’m looking to collaborate on Startup
 - 🤔 I’m looking for help with work
-- 💬 Ask me about [Mening veb-saytim](https://t.me/eraliitcoder)
-- 📫 How to reach me: t.me/eraliitcoder
+- 💬 Ask me about [Telegram](https://t.me/eraliitcoder)
+- 📫 How to reach me: [Telegram](https://t.me/eraliitcoder)
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: I am a lazy programmer😄
 - 📚 I like to read books
