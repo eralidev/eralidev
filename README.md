@@ -16,11 +16,4 @@ Hi, I'm Erali. You might recognize me as GitHub's eralidev. I really like workin
 - [Linkedin](https://linkedin.com/in/erali-abdinazarov-23320220b)
 - [Telegram channel](https://t.me/python_backend_dev)
 
-## Skills
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| JavaScript|
-|     3| SQL       |
-
 End.
